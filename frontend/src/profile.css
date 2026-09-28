@@ -1,0 +1,11 @@
+.empty-actions { display:flex; align-items:center; flex-wrap:wrap; justify-content:center; gap:9px; }
+.empty-actions .text-button { min-height:34px; padding-inline:4px; }
+.note-form { display:grid; justify-items:end; gap:7px; margin-bottom:10px; }
+.note-form textarea { width:100%; resize:vertical; padding:8px 9px; border:1px solid #e1e8df; border-radius:4px; color:#4d6457; font:10px/1.5 var(--body); }
+.note-form textarea::placeholder { color:#9aa59e; }
+.note-form .button { min-height:29px; font-size:9px; }
+.recruiter-note { padding:8px 9px; border:1px solid #ebefe8; border-radius:4px; background:#fbfcf9; }
+.recruiter-note + .recruiter-note { margin-top:6px; }
+.recruiter-note p { color:#63766a; font-size:9px; line-height:1.55; white-space:pre-wrap; }
+.recruiter-note time { display:block; margin-top:4px; color:#a0aaa1; font-size:8px; }
+.resume-preview pre { max-height:280px; overflow:auto; margin:0; padding:10px; border:1px solid #e9ede5; border-radius:4px; color:#6c7b6f; background:#fff; font:9px/1.6 var(--body); white-space:pre-wrap; }

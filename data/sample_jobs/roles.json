@@ -1,0 +1,5 @@
+[
+  {"title":"Python Platform Engineer","company":"Northstar Labs","required_skills":["Python","FastAPI","SQL","REST API","Git"],"preferred_skills":["Docker","AWS","Machine Learning"],"experience_required":3},
+  {"title":"Applied Machine Learning Engineer","company":"Fieldnote AI","required_skills":["Python","Machine Learning","scikit-learn","NLP"],"preferred_skills":["PyTorch","FastAPI","Docker"],"experience_required":2},
+  {"title":"Product Data Scientist","company":"Open Harbor","required_skills":["Python","SQL","Pandas"],"preferred_skills":["Machine Learning","Power BI","AWS"],"experience_required":2}
+]
